@@ -1,0 +1,8 @@
+com\calculadora\api\model\Operacion.class
+com\calculadora\api\services\Division.class
+com\calculadora\api\services\Resta.class
+com\calculadora\api\services\IOperacionMatematica.class
+com\calculadora\api\CalculadoraApiApplication.class
+com\calculadora\api\controllers\CalculadoraController.class
+com\calculadora\api\services\Suma.class
+com\calculadora\api\services\Multiplicacion.class
